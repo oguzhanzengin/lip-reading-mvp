@@ -2,7 +2,13 @@
 __pycache__/
 *.pyc
 .DS_Store
-models/*.h5
-models/*.keras
-data/raw/
-data/processed/
+
+data/
+external_datasets/
+models/
+
+*.keras
+*.h5
+*.npy
+*.zip
+*.rar
